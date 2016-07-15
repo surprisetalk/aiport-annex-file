@@ -1,0 +1,24 @@
+{
+  "name": "aiport-annex-pile",
+  "version": "0.0.1",
+  "description": "",
+  "main": "piles.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surprisetalk/aiport-annex-pile.git"
+  },
+  "keywords": [
+    "aiport",
+    "annex",
+    "pile"
+  ],
+  "author": "taylor sarrafian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surprisetalk/aiport-annex-pile/issues"
+  },
+  "homepage": "https://github.com/surprisetalk/aiport-annex-pile#readme"
+}
